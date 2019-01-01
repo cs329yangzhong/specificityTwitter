@@ -13,6 +13,7 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 - sklearn
 - emoji
 - numpy
+- Stanford CoreNLP
 
 ## Data and resources
 
