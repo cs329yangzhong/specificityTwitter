@@ -4,7 +4,7 @@ The dataset and models in this package are obtained using co-training as describ
 
 ## Dependencies
 
-Speciteller is implemented using Python 3.6+. It depends on the following packages:
+SpecificityTwitter is implemented using Python 3.6+. It depends on the following packages:
 - pandas
 - nltk
 - pickle
@@ -19,7 +19,7 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 Word lexicons for the models are available for download [here](https://drive.google.com/file/d/1ZqxxwdWkGYV0rEpc6E9Bolh_k0Oly3TP/view?usp=sharing). Please note that these resources come with license(s). Decompress the tar ball under the model directory.
 
 
-## Running Speciteller
+## Running SpecificityTwitter
 
 Call:
 ```
