@@ -1,5 +1,3 @@
-# SpecificityTwitter
-
 # SpecificityTwitter is a tool to predict sentence specificity of social media posts.
 
 The dataset and models in this package are obtained using co-training as described in , AAAI 2019.
@@ -18,7 +16,7 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 
 ## Data and resources
 
-Word lexicons for the models are available for download [here](). Please note that these resources come with license(s). Decompress the tar ball under the model directory.
+Word lexicons for the models are available for download [here](https://drive.google.com/file/d/1ZqxxwdWkGYV0rEpc6E9Bolh_k0Oly3TP/view?usp=sharing). Please note that these resources come with license(s). Decompress the tar ball under the model directory.
 
 
 ## Running Speciteller
