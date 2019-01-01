@@ -18,6 +18,7 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 
 Word lexicons for the models are available for download [here]{underConstruction}. Please note that these resources come with license(s). Decompress the tar ball under this (i.e., the speciteller) directory.
 
+
 ## Running Speciteller
 
 Call:
@@ -28,7 +29,7 @@ $ python parser.py --inputfile inputfile --outputfile predfile
 - `<inputfile>` should consists of *word-tokenized* sentences, one sentence per line;
 - `<predfile>` will be the destination file which Speciteller will write the specificity scores to, one score per line in the same order as sentences in `<inputfile>`.
 
-The scores range from 0 to 1, with 0 being most general and 1 being most specific.
+The scores are float numbers ranging from 1 to 5, with 1.0 being most general and 5.0 being most specific.
 
 ## Practical notes
 - It is best that you word-tokenize your sentences. 
@@ -38,3 +39,5 @@ The scores range from 0 to 1, with 0 being most general and 1 being most specifi
 ## Citation and contact
 
 Please cite the following paper:
+
+TODO
