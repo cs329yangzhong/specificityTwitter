@@ -11,14 +11,14 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 - nltk
 - pickle
 - sklearn
-- emoji
+- [emoji](https://gate.ac.uk/wiki/twitter-postagger.html)
 - numpy
 - Stanford CoreNLP
 - [GATE Twitter part-of-speech tagger](https://gate.ac.uk/wiki/twitter-postagger.html)
 
 ## Data and resources
 
-Word lexicons for the models are available for download [here]{underConstruction}. Please note that these resources come with license(s). Decompress the tar ball under the model directory.
+Word lexicons for the models are available for download [here](). Please note that these resources come with license(s). Decompress the tar ball under the model directory.
 
 
 ## Running Speciteller
