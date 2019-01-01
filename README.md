@@ -17,7 +17,7 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 
 ## Data and resources
 
-Word lexicons for the models are available for download [here]{underConstruction}. Please note that these resources come with license(s). Decompress the tar ball under this (i.e., the speciteller) directory.
+Word lexicons for the models are available for download [here]{underConstruction}. Please note that these resources come with license(s). Decompress the tar ball under the model directory.
 
 
 ## Running Speciteller
