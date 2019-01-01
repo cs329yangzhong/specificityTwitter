@@ -14,6 +14,7 @@ Speciteller is implemented using Python 3.6+. It depends on the following packag
 - emoji
 - numpy
 - Stanford CoreNLP
+- [GATE Twitter part-of-speech tagger](https://gate.ac.uk/wiki/twitter-postagger.html)
 
 ## Data and resources
 
