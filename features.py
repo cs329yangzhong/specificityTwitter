@@ -59,7 +59,6 @@ def extractPOS(sentlst):
 
 	subprocess.call(['./extractPostag.sh'])
 	print("Successfully covert pos-tags")
-	os.remove("input.csv")
 
 	with open("sample-tagged.txt","r",encoding = "utf-8" ) as f:
 		f = f.readlines()
