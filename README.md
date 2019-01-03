@@ -22,7 +22,7 @@ SpecificityTwitter is implemented using Python 3.6+. It depends on the following
 and
 - StanfordCoreNLP
 
-Our model was trained on a support vector regression model intergraded with scikit-learn. The last three packages are required to generate features to be used in prediction. 
+Our model was trained on a support vector regression model intergraded with scikit-learn. The last three packages together with the StanfordCoreNLP toolkit are required to generate features to be used in prediction. 
 
 ## Data and resources
 
