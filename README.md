@@ -19,6 +19,8 @@ SpecificityTwitter is implemented using Python 3.6+. It depends on the following
 - nltk
 - [GATE Twitter part-of-speech tagger](https://gate.ac.uk/wiki/twitter-postagger.html), please download the twitie-tagger and unzip it in current directory.
 
+and
+- StanfordCoreNLP
 
 Our model was trained on a support vector regression model intergraded with scikit-learn. The last three packages are required to generate features to be used in prediction. 
 
