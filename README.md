@@ -26,6 +26,17 @@ Our model was trained on a support vector regression model intergraded with scik
 
 Word lexicons for the models are available for download [here](https://drive.google.com/file/d/1ZqxxwdWkGYV0rEpc6E9Bolh_k0Oly3TP/view?usp=sharing). Please note that these resources come with license(s). Decompress the tar ball under the model directory.
 
+### Resources
+There are several files in the resource folder.
+- browncluster.txt (Browncluster)
+- concrete.csv (Concrete level)
+- glove.twitter.27B.100d.txt (Word Embedding)
+- negatie-words.txt (Negative word list)
+- positive-words.txt (Positive word list)
+- stanford-ner.jar
+- english.muc.7class.distsim.crf.ser.gz 
+(the last two file are downloaded from [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
+
 
 ## Running SpecificityTwitter
 
