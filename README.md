@@ -30,14 +30,14 @@ Word lexicons for the models are available for download [here](https://drive.goo
 
 ### Resources
 There are several files in the resource folder.
-- browncluster.txt (Browncluster)
+- browncluster.txt    (Browncluster)
 - concrete.csv (Concrete level)
-- glove.twitter.27B.100d.txt (Word Embedding)
+- glove.twitter.27B.100d.txt (Word Embedding from [GloVe](https://nlp.stanford.edu/projects/glove/))
 - negatie-words.txt (Negative word list)
 - positive-words.txt (Positive word list)
 - stanford-ner.jar
 - english.muc.7class.distsim.crf.ser.gz 
-(the last two file are downloaded from [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
+(the last two file are downloaded from [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml))
 
 
 ## Running SpecificityTwitter
