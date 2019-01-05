@@ -45,7 +45,7 @@ $ python specificity.py --inputfile inputfile --outputfile predfile
 ```
 
 - `<inputfile>` should consists of *word-tokenized* sentences, one sentence per line;
-- `<predfile>` will be the destination file which Speciteller will write the specificity scores to, one score per line in the same order as sentences in `<inputfile>`.
+- `<predfile>` will be the destination file which SpecicifityTwitter will write the specificity scores to, one score per line in the same order as sentences in `<inputfile>`.
 
 The scores are decimal numbers ranging from 1 to 5, with 1.0 being most general and 5.0 being most specific.
 
