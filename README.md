@@ -29,13 +29,13 @@ Word lexicons for the models are available for download [here](https://utexas.bo
 There are several files in the resource folder.
 - browncluster.txt    (Browncluster)
 - concrete.csv (Concrete level)
-- glove.twitter.27B.100d.txt (Word Embedding from [GloVe](https://nlp.stanford.edu/projects/glove/))
-- negatie-words.txt (Negative word list)
-- positive-words.txt (Positive word list) 
-*Sentiment words from (Hu and Liu, KDD-2004)*
+- glove.twitter.27B.100d.txt *Word Embedding from [GloVe](https://nlp.stanford.edu/projects/glove/)*
+- negatie-words.txt 
+- positive-words.txt 
+*Sentiment words from (Hu and Liu, 2004)*
 - stanford-ner.jar
 - english.muc.7class.distsim.crf.ser.gz 
-(the last two file are downloaded from StanfordCoreNLP)
+*stanford NER tagger (Finkel et al., 2005)*
 
 
 ## Running SpecificityTwitter
