@@ -35,7 +35,7 @@ There are several files in the resource folder.
 *Sentiment words from (Hu and Liu, 2004)*
 - **stanford-ner.jar**
 - **english.muc.7class.distsim.crf.ser.gz** 
-*stanford NER tagger (Finkel et al., 2005)*
+*Stanford NER tagger (Finkel et al., 2005)*
 
 
 ## Running SpecificityTwitter
