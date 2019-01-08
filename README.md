@@ -29,14 +29,14 @@ There are several files in the resource folder.
 - **browncluster.txt**    (Browncluster)
 - **concrete.csv** (Concrete level)
  
--**Word Embedding from [GloVe](https://nlp.stanford.edu/projects/glove/)**
+- **Word Embedding from [GloVe](https://nlp.stanford.edu/projects/glove/)**
 -- glove.twitter.27B.100d.txt
 
--**Sentiment words from (Hu and Liu, 2004)**
+- **Sentiment words from (Hu and Liu, 2004)**
 -- negatie-words.txt
 -- positive-words.txt
 
--**Stanford NER tagger (Finkel et al., 2005)**
+- **Stanford NER tagger (Finkel et al., 2005)**
 -- stanford-ner.jar
 -- english.muc.7class.distsim.crf.ser.gz
 
