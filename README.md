@@ -29,7 +29,7 @@ There are several files in the resource folder.
 - **browncluster.txt**    (Browncluster)
 - **concrete.csv** (Concrete level)
  
-- **Word Embedding from [GloVe](https://nlp.stanford.edu/projects/glove/)**
+- **[GloVe](https://nlp.stanford.edu/projects/glove/) Word Embedding trained on twitter posts (Pennington et al., 2014)**
 
     glove.twitter.27B.100d.txt
 
