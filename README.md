@@ -60,7 +60,7 @@ $ python specificity.py --inputfile inputfile --outputfile predfile
 The scores are decimal numbers ranging from 1 to 5, with 1.0 being most general and 5.0 being most specific.
 
 ## Practical notes
-- It is best that you word-tokenize your sentences. 
+- Sentences must be word-tokenized before fed into this model.
 
 - Note that the word embedding file is a 1.2 GB file and should be downloaded from the above link. Each run of specificity.py will load the file to generate features. Thus it is best to avoid loading it multiple times, or modify feature.py and tailor it for your data loading purpose.
 
