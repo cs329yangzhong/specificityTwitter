@@ -26,8 +26,13 @@ Word lexicons for the models are available for download [here](https://utexas.bo
 
 ### Resources
 There are several files in the resource folder.
-- **browncluster.txt**    (Browncluster)
-- **concrete.csv** (Concrete level)
+- **Brown clusters (Turian et al., 2010)**
+
+    browncluster.txt
+
+- **Concrete level (Brysbaert wt al., 2014)**
+
+    concrete.csv
  
 - **[GloVe](https://nlp.stanford.edu/projects/glove/) Word Embedding trained on twitter posts (Pennington et al., 2014)**
 
