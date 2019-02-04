@@ -4,9 +4,17 @@ The dataset and models in this package are obtained using co-training as describ
 
 ## Citation and contact
 
-Please cite the following paper:
+Please cite the AAAI-19 paper: Gao et al., [Predicting and Analyzing Language Specificity in Social Media Posts](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoYifan.7009.pdf)
 
-TODO
+```
+@InProceedings{gao2019specificity,
+  author    = {Gao, Yifan  and  Zhong, Yang  and  Preo\c{t}iuc-Pietro, Daniel  and  Li, Junyi Jessy},
+  title     = {Predicting and Analyzing Language Specificity in Social Media Posts},
+  booktitle = {Proceedings of AAAI},
+  year      = {2019},
+  url       = {https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoYifan.7009.pdf},
+}
+```
 
 ## Dependencies
 
