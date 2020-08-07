@@ -23,7 +23,7 @@ SpecificityTwitter is implemented using Python 3.6+. It depends on the following
 - pickle
 - scikit-learn
 - [emoji](https://gate.ac.uk/wiki/twitter-postagger.html)
-- [GATE Twitter part-of-speech tagger](https://gate.ac.uk/wiki/twitter-postagger.html), please download the twitie-tagger and unzip it in current directory.
+- [GATE Twitter part-of-speech tagger](https://gate.ac.uk/wiki/twitter-postagger.html), please download the twitie-tagger and unzip it in current directory. You can also directly download the tagger we used [here](https://drive.google.com/file/d/18CZ07XpE-JkWpoHNf5NIdNaO0O70S86F/view?usp=sharing)
 
 Our model was trained on a support vector regression model intergraded with scikit-learn. The last three packages together with the StanfordCoreNLP toolkit are required to generate features to be used in prediction. 
 
