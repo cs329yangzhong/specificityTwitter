@@ -9,7 +9,7 @@ RT = "./"
 BROWNCLUSFILE_100 = RT + "resources/MetaOptimize/BrownWC/brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt"
 BROWNCLUSFILE = RT + "resources/MetaOptimize/BrownWC/bronwn-rcv1-1000-freq1.txt"
 
-STOPWORDFILE = RT + "nltkstopwords.txt"
+STOPWORDFILE = RT + "resources/nltkstopwords.txt"
 
 def readMetaOptimizeBrownCluster_100():
     print ("loading brown clusters...")
