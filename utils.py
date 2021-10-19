@@ -4,12 +4,12 @@ import os
 import gzip
 import numpy as np
 
-RT = "/Users/yangzhong/Desktop/NLPparser/mturk_specificity/cleaned_data/MetaOptimize/BrownWC/"
+RT = "./"
 
-BROWNCLUSFILE_100 = RT + "brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt"
-BROWNCLUSFILE = RT + "bronwn-rcv1-1000-freq1.txt"
+BROWNCLUSFILE_100 = RT + "resources/MetaOptimize/BrownWC/brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt"
+BROWNCLUSFILE = RT + "resources/MetaOptimize/BrownWC/bronwn-rcv1-1000-freq1.txt"
 
-STOPWORDFILE = RT + "data/nltkstopwords.txt"
+STOPWORDFILE = RT + "nltkstopwords.txt"
 
 def readMetaOptimizeBrownCluster_100():
     print ("loading brown clusters...")
