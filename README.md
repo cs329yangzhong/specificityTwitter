@@ -29,7 +29,7 @@ Our model was trained on a support vector regression model intergraded with scik
 
 ## Data and resources
 
-Word lexicons for the models are available for download [here](https://utexas.box.com/shared/static/9smjk9q5kxrci1whdehk5zpdgjx7gisq.zip). Please note that these resources come with license(s). Decompress the tar ball under the model directory.
+Word lexicons for the models are available for download [here](https://drive.google.com/file/d/1T6OrHye4v2pa_cIKQETTJqknsNNOrtjb/view?usp=sharing). Please note that these resources come with license(s). Decompress the folder under the model directory.
 
 ### Resources
 There are several files in the resource folder.
